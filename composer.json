@@ -1,6 +1,7 @@
 {
     "name": "wes/wesdummy",
     "description": "WES Dummy",
+    "license": "MIT",
     "authors": [
         {
             "name": "weber.digital",
